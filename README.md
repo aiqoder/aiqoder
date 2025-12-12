@@ -1,7 +1,5 @@
 # 🎉 一个橙子pro 🎉
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=一个橙子pro&fontSize=40&fontAlignY=35)
-
 ## 📝 关于我
 
 我是一名充满激情的开发者，专注于使用AI编程工具进行编程。编程语言与技能不限制，我热爱解决复杂问题，创建高质量的软件，并不断学习新技术。
