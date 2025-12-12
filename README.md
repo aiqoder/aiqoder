@@ -6,15 +6,15 @@
 
 ## 📝 关于我
 
-我是一名充满激情的开发者，专注于全栈开发和人工智能应用。我热爱解决复杂问题，创建高质量的软件，并不断学习新技术。
+我是一名充满激情的开发者，专注于使用AI编程工具进行编程。编程语言与技能不限制，我热爱解决复杂问题，创建高质量的软件，并不断学习新技术。
 
-- 🔭 目前正在构建创新的 Web 应用和 AI 模型
-- 🌱 正在深入学习机器学习和云计算技术
+- 🔭 目前正在利用AI工具构建创新的软件项目
+- 🌱 持续探索AI与编程结合的最佳实践
 - 👯 寻找开源项目合作机会和技术交流
-- 💬 欢迎向我询问关于 JavaScript、Python 和 React 相关问题
-- 📫 如何联系我：可以通过 GitHub Issues 或 LinkedIn 联系我
+- 💬 无论谁在issues提出需求，都将尽力为您开发一款有用的软件
+- 📫 如何联系我：微信公众号 一个橙子pro，微信号 bianbingdang123
 - 😄 爱好：编程、阅读技术书籍、参与技术社区讨论
-- ⚡ 有趣的事实：我喜欢在代码中添加有趣的注释和彩蛋
+- ⚡ 有趣的事实：我热衷于探索AI如何提升编程效率和创造力
 
 ## 💻 技术技能
 
@@ -84,9 +84,11 @@
 
 ## 📫 联系方式
 
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: your.email@example.com
+- 微信公众号: 一个橙子pro
+- 微信号: bianbingdang123
+- GitHub Issues: 欢迎在任意项目中提交需求或问题
+
+无论谁在issues提出需求，都将尽力为您开发一款有用的软件！
 
 ## 🎯 目标和未来计划
 
