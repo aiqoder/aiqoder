@@ -43,12 +43,9 @@
 
 ## 📈 GitHub 统计
 
-<!-- GitHub 统计图表 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aiqoder&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub 统计" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiqoder&layout=compact&theme=dark&hide=html,css" alt="Top Langs" />
-</div>
+![GitHub 统计](https://github-readme-stats.vercel.app/api?username=aiqoder&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiqoder&layout=compact&theme=dark)
 
 ## 📫 联系方式
 
