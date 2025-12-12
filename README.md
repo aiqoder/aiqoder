@@ -1,3 +1,7 @@
+## 🎉 一个橙子pro 🎉
+
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=一个橙子pro&fontSize=40&fontAlignY=35)
+
 # 👋 欢迎来到我的 GitHub 个人主页！
 
 <div align="center">
@@ -36,29 +40,6 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
 </div>
-
-## 🚀 精选项目
-
-### 项目 1: 智能任务管理系统
-**TaskMaster AI** - 一个集成人工智能的任务管理系统，帮助用户智能规划和优化工作流程。
-
-- 🔗 [项目链接](https://github.com/yourusername/taskmaster-ai)
-- 🛠️ 技术栈：React, Node.js, Express, MongoDB, TensorFlow.js
-- 📊 亮点：实现了智能任务优先级排序、自然语言处理任务描述、自动时间估算等功能
-
-### 项目 2: 实时协作编辑器
-**CollabEdit** - 一个支持多人实时协作的在线文本编辑器，类似于 Google Docs。
-
-- 🔗 [项目链接](https://github.com/yourusername/collabedit)
-- 🛠️ 技术栈：Next.js, Socket.io, TypeScript, PostgreSQL, Redis
-- 📊 亮点：实现了 Operational Transformation 算法确保实时编辑冲突解决，支持实时光标位置显示
-
-### 项目 3: 开源贡献分析工具
-**GitInsights** - 一个可视化分析工具，帮助开发者了解自己的开源贡献模式和效率。
-
-- 🔗 [项目链接](https://github.com/yourusername/gitinsights)
-- 🛠️ 技术栈：Python, Django, Chart.js, GitHub API, Docker
-- 📊 亮点：提供直观的贡献图表、代码质量分析、最佳实践建议等功能
 
 ## 📈 GitHub 统计
 
