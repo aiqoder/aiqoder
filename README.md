@@ -1,12 +1,6 @@
-## 🎉 一个橙子pro 🎉
+# 🎉 一个橙子pro 🎉
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=一个橙子pro&fontSize=40&fontAlignY=35)
-
-# 👋 欢迎来到我的 GitHub 个人主页！
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200" />
-</div>
 
 ## 📝 关于我
 
@@ -43,9 +37,18 @@
 
 ## 📈 GitHub 统计
 
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=aiqoder&show_icons=true&theme=dark)
+由于动态统计服务可能受到访问限制，这里提供静态信息：
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiqoder&layout=compact&theme=dark)
+<div align="center">
+  <a href="https://github.com/aiqoder">
+    <img src="https://img.shields.io/github/followers/aiqoder?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/aiqoder">
+    <img src="https://img.shields.io/github/stars/aiqoder?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+</div>
+
+您可以直接访问 <a href="https://github.com/aiqoder">我的GitHub主页</a> 查看完整统计信息。
 
 ## 📫 联系方式
 
